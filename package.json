@@ -89,7 +89,7 @@
     "@types/highlight.js": "9.12.4",
     "@types/html-webpack-plugin": "3.2.3",
     "@types/jest": "26.0.12",
-    "@types/lodash": "4.14.161",
+    "@types/lodash": "4.14.168",
     "@types/lodash-es": "4.17.3",
     "@types/react": "16.9.49",
     "@types/react-dom": "16.9.8",
